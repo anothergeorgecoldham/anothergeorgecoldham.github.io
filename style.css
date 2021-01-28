@@ -4,6 +4,5 @@ h1{
     font-size: 88px;
 }
 
-p{
-    text-align: center;
-}
+a:link {text-align: center;}
+a:visited {text-align: center;}
